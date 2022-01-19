@@ -2,6 +2,9 @@ a{
     font-family: 'dongle', sans-serif; 
     margin: 10 20;
 }
+ .mountain{
+      size: 100%;
+  }
 a:hover{
     color: white;
 }
